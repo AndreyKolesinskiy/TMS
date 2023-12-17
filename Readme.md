@@ -1,1 +1,1 @@
-Lesson #1. Hello <user>.
+Lesson #1. Hello User.
